@@ -66,9 +66,74 @@ Prior to this class we asked you to download the 2024_Python_Math_Review folder 
 
 The screen you see is called the home screen or dash board. This should show you a navigable file structure much like what you might find on your computer. In our folder we can find files ending on `.ipynb` which are our jupyter notebooks containing the code we will work with today. For detailed information on how to design and organize your jupyter notebook, check out following resource on shortcuts for markdowns: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+To start a new notebook. Go over to New drop down menu and select Python or the like. This is going to open up a new Jupyter Notebook within our special conda environment for us to work within.
+
+> Quick tip: if you are lost or confused just type H (while not in a cell). This brings up a handy cheat sheet.
+You should now see a new Jupyter Notebook window.
+
 **Now lets get started with the actual coding!**
 
 ## Python 
+### Terms and Data Types
+#### General Terminology
+| Term        | Definition           |
+| ------------- |:-------------:|
+| Arguments     | Values given to a program when it is run |
+| Code      | Program or or portion of program; Act of writing a program   | 
+| Execute | To begin to run a program (see also: run) |
+| Function |A subprogram that can be called to run the same task |
+|Parameters | Values given to a function |
+| Return | The act of sending back a value as part of a function |
+| Variable | A name that holds a value |
+
+#### Basic Data Types
+|Type	| Example |
+| ------------- |:-------------:|
+|Integer	| A whole number; e.g. 85, 0 |
+|Float	| Any number (scientific, decimal); e.g 3.14, 4.2e-10 |
+|Boolean |	Binary True/False |
+|String	| A collection of text characters (numbers, letters, etc.); e.g. "Homo sapiens", "33" |
+
+#### Mathematical Operations
+|Symbol | Example |
+| ------------- |:-------------:|
+|+	|Addition|
+|-	|Subtraction|
+|*	|Multiplication|
+|/	|Division|
+|**	|Power/exponent|
+|%	|Modulo|
+|//	|Truncated division (without remainder)|
+
+#### Comparative and Logical Operators
+|Symbol	|Example|
+| ------------- |:-------------:|
+| `==` |	Equals|
+|`!=`	| Does not Equal |
+|`>, >=`	| Greater than |
+|`<, <=`	| Less than |
+|`and, &	`| And |
+| `or, |`	| Or |
+| `not, !`|	Not |
+
+### Variables
+Unlike some other programming languages, you do not need to specify what a variable is going to be. It can honestly be anything and will take on anything. Any data type can be assigned to a variable with the `=`. For example:
+
+```python
+my_name = 'Poseidon'
+blue = 'red'
+apple = 5
+```
+
+You can print the value of a variable with the command `print()`:
+
+```python
+print(my_name)
+```
+
+
+
+
 
 
 
