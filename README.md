@@ -12,12 +12,12 @@ The use of this repository is for MIT-WHOI JP Students and affiliates only, plea
 * Introduction to python and programming languages in general terms
 * Introduction to the python interpreter
 * Introduction to conda
-* Setting up jupter notebook on the HPC
 * Survey of terms and data types in python
 * Operators in python
 * Lists, dictionaries, sets
 * Libraries and modules
 * For loops!
+* Functions
 
 ## Why Python?
 Python is an open source, object-oriented programming language with useful applications in data science, numerical modeling, GIS, and developing open source software. Other than Python there are a variety of programming languages that can be used. For science you can use whatever suits your work. Popular choices include:
@@ -71,8 +71,6 @@ To start a new notebook. Go over to New drop down menu and select Python or the 
 > Quick tip: if you are lost or confused just type H (while not in a cell). This brings up a handy cheat sheet.
 You should now see a new Jupyter Notebook window.
 
-**Now lets get started with the actual coding!**
-
 ## Python 
 ### Terms and Data Types
 #### General Terminology
@@ -116,22 +114,7 @@ You should now see a new Jupyter Notebook window.
 | `or, |`	| Or |
 | `not, !`|	Not |
 
-### Variables
-Unlike some other programming languages, you do not need to specify what a variable is going to be. It can honestly be anything and will take on anything. Any data type can be assigned to a variable with the `=`. For example:
-
-```python
-my_name = 'Poseidon'
-blue = 'red'
-apple = 5
-```
-
-You can print the value of a variable with the command `print()`:
-
-```python
-print(my_name)
-```
-
-
+**Now lets get started with the actual coding!**
 
 
 
