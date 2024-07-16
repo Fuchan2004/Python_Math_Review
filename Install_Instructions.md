@@ -15,9 +15,9 @@ Change your current working directory to the location to which you downloaded Py
 
 `cd /Users/zoeaarons/Documents/Documents/Python_Math_Review/`
 
-Create conda environment from the included environment.yml file:
+Create conda environment from the included envs.yml file:
 
-`conda env create -f environment.yml`
+`conda env create -f envs.yml`
 
 > Note: These instructions should hopefully work on all operating systems. However, if you are using Windows and this does not work, check out the [Anaconda Navigator](https://docs.anaconda.com/navigator/tutorials/manage-environments/#importing-an-environment)
 
