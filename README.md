@@ -6,7 +6,7 @@ The use of this repository is for MIT-WHOI JP Students and affiliates only, plea
 
 *Created by:* Fadime Stemmer, Zoe Aarons
 
-*Last Updated:* 07/10/2024
+*Last Updated:* 07/14/2025
 
 ## Goals
 * Introduction to python and programming languages in general terms
