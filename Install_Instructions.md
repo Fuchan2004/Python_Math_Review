@@ -25,16 +25,16 @@ Once the environment is done building, check that the new environment was instal
 
 `conda info --envs`
 
-You should see a list of environments with the environment 'math-review' being one of them! 
+You should see a list of environments with the environment `math-review` being one of them! 
 
 To activate the environment simply type:
 
-'conda activate math-review'
+`conda activate math-review`
 
-Your prompt (the brackets preceding your computer name) should change from (base) to (math-review). This indicates that your current active environment is 'math-review'.
+Your prompt (the brackets preceding your computer name) should change from `(base)` to `(math-review)`. This indicates that your current active environment is `math-review`.
 
 To deactivate the environment type: 
 
-'conda deactivate math-review'
+`conda deactivate math-review`
 
 And it will change back from (math-review) to (base)!
