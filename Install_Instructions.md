@@ -37,4 +37,5 @@ To deactivate the environment type:
 
 `conda deactivate math-review`
 
-And it will change back from (math-review) to (base)!
+And it will change back from `(math-review)` to `(base)`!
+Now, let's get coding!
