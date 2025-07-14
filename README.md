@@ -60,11 +60,11 @@ Anaconda is used to run and manage `jupyter notebooks`. It is a free and open-so
 
 ### Opening Jupyter Notebooks
 To run jupyter notebooks on a local computer type `jupyter notebook` in your terminal. It will automatically open the browser to run jupyter notebooks.
-Prior to this class we asked you to download the 2024_Python_Math_Review folder on your computer. By going to terminal and opening jupyter notebook from this folder, you will reach following page displaying the contents of the folder within jupyter. 
+Prior to this class we asked you to download the Python_Math_Review folder on your computer. By going to terminal and opening jupyter notebook from this folder, you will reach following page displaying the contents of the folder within jupyter. 
 
 <img width="1209" alt="Screenshot 2024-07-16 at 11 13 13" src="https://github.com/user-attachments/assets/ad7e5bfc-294e-439b-9de4-f80dc2459bf7">
 
-The screen you see is called the home screen or dash board. This should show you a navigable file structure much like what you might find on your computer. In our folder we can find files ending on `.ipynb` which are our jupyter notebooks containing the code we will work with today. For detailed information on how to design and organize your jupyter notebook, check out following resource on shortcuts for markdowns: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+The screen you see is called the home screen or dashboard. This should show you a navigable file structure much like what you might find on your computer. In our folder we can find files ending on `.ipynb` which are our jupyter notebooks containing the code we will work with today. For detailed information on how to design and organize your jupyter notebook, check out following resource on shortcuts for markdowns: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 To start a new notebook. Go over to New drop down menu and select Python or the like. This is going to open up a new Jupyter Notebook within our special conda environment for us to work within.
 
